@@ -1,6 +1,6 @@
 {
-  "pluginName": "快翻",
-  "description": "快捷翻译",
+  "pluginName": "自然语音",
+  "description": "自然语音",
   "version": "1.0.0",
   "main": "dist/index.html",
   "preload": "preload.js",
@@ -9,12 +9,12 @@
   "logo": "icon.png",
   "features": [
     {
-      "code": "快翻",
-      "explain": "翻译",
-      "cmds": ["翻译", "ts", "translate", "tr", "trans", "快翻","快捷",
+      "code": "自然语音",
+      "explain": "自然语音",
+      "cmds": ["语音", "tts", "自然", "自语", "文字", "转","人声",
         {
           "type": "regex",
-          "label": "翻译",
+          "label": "自然语音",
           "match": "/[a-zA-Z\u4e00-\u9fa5]/gm",
           "minLength": 0
       }],

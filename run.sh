@@ -7,3 +7,4 @@ mkdir data
 cp -r README.md data
 cp -r plugin.json data
 cp -r icon.png data
+cp -r perload.js data

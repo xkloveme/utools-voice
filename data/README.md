@@ -1,40 +1,35 @@
-# 翻译 translate ts 
+# 自然语音
 
-![img](https://s1.ax1x.com/2020/05/24/Yz4J6P.png)
+![img]( ./icon.png)
 
-# 📝🎨 一个简单的翻译
+# 自然语音
 
 ![image](https://forthebadge.com/images/badges/built-with-love.svg)
 
+
+## 预览
+
+- [国际](http://www.jixiaokang.com/utools-voice/)
+- [国内](https://github.com/xkloveme/utools-voice/issues)
+- [国内备用1](https://utools-voice-xkloveme.vercel.app/)
+- [国内备用2](https://utools-voice-git-master-xkloveme.vercel.app/)
+- [国内备用3](https://utools-voice-n22bsory7-xkloveme.vercel.app/)
 
 ## 地址
 
 - [项目源码](https://github.com/xkloveme/utools-voice)
 - [反馈](https://github.com/xkloveme/utools-voice/issues)
 
-## note 插件
+## 自然语音 插件
 
 1. 全平台支持. windows, mac, linux.
-2. 记录便捷的笔记本
 
 ## 更新日志
 
 - ### 1.0.0
 
-  > - 修复部分样式问题
-
-- ### 0.0.9
-
-  > - 修复新增笔记无法保存
-
-- ### 0.0.5
-
-  > - 修复暗黑模式下的显示问题
-  > - 添加自动保存
-
-- ### 0.0.4
-  > - 上架应用市场
-  > - 修复首次登录未获取到数据问题
+  > - 最近心情低落,写个插件
+  > - 请不要用该插件做违法乱纪的事情,那样我会更伤心
 
 ## 发电
 

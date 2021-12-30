@@ -9,8 +9,11 @@
 
 ## 预览
 
-- [项目源码](https://github.com/xkloveme/utools-voice)
-- [反馈](https://github.com/xkloveme/utools-voice/issues)
+- [国际](http://www.jixiaokang.com/utools-voice/)
+- [国内](https://github.com/xkloveme/utools-voice/issues)
+- [国内备用1](https://utools-voice-xkloveme.vercel.app/)
+- [国内备用2](https://utools-voice-git-master-xkloveme.vercel.app/)
+- [国内备用3](https://utools-voice-n22bsory7-xkloveme.vercel.app/)
 
 ## 地址
 
@@ -26,7 +29,7 @@
 - ### 1.0.0
 
   > - 最近心情低落,写个插件
-  > - 请不要用该插件做违法乱纪的事情,
+  > - 请不要用该插件做违法乱纪的事情,那样我会更伤心
 
 ## 发电
 

@@ -134,7 +134,7 @@ export default defineComponent({
       waiting: true,
       preload: 'auto'
     },
-    url: "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=kangge-pro&text=您好!欢迎使用自然语音阅读软件,您可以在上方输入想要朗读的内容,祝你玩的愉快&speaking_rate=1&volume=1",
+    url: "https://s4w-2019.zhiyin.sogou.com/tts?language_code=zh-cmn-Hans-CN&speaker=kangge-pro&text=您好!欢迎使用自然语音阅读软件,您可以在上方输入想要朗读的内容,祝你玩的愉快,如果您觉得不错,请帮助开发者喝杯咖啡 ☕️,一分也是情,一分也是爱 ❤️ 当然您的鼓励会让我走的更远.&speaking_rate=1&volume=1",
     list: [
       {
         "name": "B AI搜狗-康哥",

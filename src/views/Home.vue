@@ -27,8 +27,8 @@
       <div class="max-w-screen-xl mx-auto px-4 sm:px-4 lg:px-6">
         <div class="flex items-center justify-between h-12">
           <div class="flex items-center">
-            <div class="relative">
-              <select @change="changePeople" class="focus:ring-indigo-500 focus:border-gray-500 h-full py-0 pl-0 pr-7 bg-transparent border-indigo-600 text-white sm:text-sm rounded-md">
+            <div class="relative text-white">
+              <select @change="changePeople" class="focus:ring-indigo-500 focus:border-gray-500 h-full py-0 pl-0 pr-7 bg-white border-indigo-600 text-blue-900 sm:text-sm rounded-md">
                 <option v-for="(item,i) in list" :key="i" :value="item.url">{{item.name}}</option>
               </select>
             </div>
